@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=9B30FF&center=true&vCenter=true&width=800&lines=SPARK" alt="SPARK Purple ASCII Art" />
 </p>
 
-# Hi, I'm Vinoth! - AKA jeyaShreeNarayanan 👋
+# Hi, I'm Vinoth! 
+- AKA jeyaShreeNarayanan 👋
 
 **Full Stack Developer | AI Integrator | UI/UX Designer | Cyber Security Enthusiast**
 
