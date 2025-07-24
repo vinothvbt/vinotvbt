@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=9B30FF&center=true&vCenter=true&width=600&lines=SPARK" alt="SPARK Purple ASCII Art" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=9B30FF&center=true&vCenter=true&width=800&lines=SPARK" alt="SPARK Purple ASCII Art" />
 </p>
 
-# Hi, I'm Vinoth! 👋
+# Hi, I'm Vinoth! AKA jeyaShreeNarayanan 👋
 
 **Full Stack Developer | AI Integrator | UI/UX Designer | Cyber Security Enthusiast**
 
@@ -10,7 +10,7 @@
 
 ##  About Me
 - Passionate about building end-to-end tech solutions with a focus on **AI integration**.
-- Creative **UI/UX designer** inspired by my love for pencil art 🎨.
+- Creative **UI/UX designer** inspired by my love for pencil art .
 - Always learning and exploring **cyber security**—from offensive to defensive, from Linux commands to Kali Linux tools.
 - I thrive on **flexibility and adaptability**—the ultimate "jack of all trades"!
 - I don’t just code for money; I code for fun, for meaning, and to spark something new.  
@@ -31,7 +31,7 @@
 
 ##  Featured Project: [The Spark Project](https://github.com/vinothvbt/Spark)
 
-> **The Spark Project** is my upcoming startup, blending innovation in AI, full stack development, and security to ignite new possibilities.  
+> **The Spark Project** is my upcoming startup, blending innovation in the parking lot booking site, full stack development, and security to ignite new possibilities.  
 > Stay tuned for more updates!
 
 ---
